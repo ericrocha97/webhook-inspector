@@ -1,0 +1,14 @@
+{
+	"name": "webhook-inspector",
+	"version": "1.0.0",
+	"description": "",
+	"private": true,
+	"workspaces": [
+		"api",
+		"web"
+	],
+	"packageManager": "pnpm@10.22.0",
+	"devDependencies": {
+		"@biomejs/biome": "2.3.5"
+	}
+}
